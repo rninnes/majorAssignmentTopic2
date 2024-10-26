@@ -22,10 +22,6 @@ The Music Library Management System is a Java-based application designed to orga
 
 - **Song and Artist Input:**
   - For each song and/or artist, users must specify:
-    - **Unit Name** (e.g., COMP1010, MATH1007).
-    - **Lecture Hours per Week:** Either **2 or 3 hours**.
-    - **Practical Hours per Week:** **1, 2, or 3 hours**.
-
     - **Song Title** (e.g., Gods Plan, Family Ties).
     - **Artist Name** (e.g., Drake, Kendrick Lamar).
     - **Album Name** (e.g., Scorpion, The Melodic Blue)
